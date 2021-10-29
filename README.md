@@ -8,4 +8,4 @@ first modifie
 - файлы переопределения
 - файлы конфигурации CLI
 - New Line
-
+- New Line in IDE
